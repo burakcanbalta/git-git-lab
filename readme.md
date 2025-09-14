@@ -8,6 +8,7 @@ Git'in yüklü olup olmadığını kontrol etmek için:
 ``` bash
 git --version
 ```
+<img width="469" height="54" alt="version" src="https://github.com/user-attachments/assets/baebf250-9cb4-46be-aec5-a89695b545f4" />
 
 ### Kullanıcı adı ve e-posta tanımlama
 
@@ -26,9 +27,12 @@ git config --global user.name
 git config --global user.email
 ```
 
-------------------------------------------------------------------------
+<img width="640" height="180" alt="user+check" src="https://github.com/user-attachments/assets/a9bfef45-412a-4cab-af14-89b42dc06629" />
 
-## 2. Yeni Proje Oluşturma
+<img width="597" height="137" alt="email+check" src="https://github.com/user-attachments/assets/8505f2d0-fc52-44a9-9970-b8bb566240ca" />
+
+
+## Yeni Proje Oluşturma
 
 Öncelikle bir klasör oluşturun ve içerisine gidin:
 
@@ -42,12 +46,16 @@ Bu klasörü Git projesi haline getirmek için:
 ``` bash
 git init
 ```
+<img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/7d9dcc60-a171-466c-a8fc-69d5b6acc5ec" />
 
 ------------------------------------------------------------------------
 
-## 3. Dosya ve Commit İşlemleri
+## Dosya ve Commit İşlemleri
 
 ### Dosya ekleme
+
+<img width="695" height="228" alt="gitdrawio" src="https://github.com/user-attachments/assets/40d4b2bd-437e-43bb-9239-30b1be270476" />
+
 
 Çalışma dizinindeki tüm dosyaları **staging area** (geçiş alanı) içine
 eklemek için:
@@ -63,6 +71,11 @@ Değişiklikleri kalıcı hale getirmek için commit mesajı eklenir:
 ``` bash
 git commit -m "İlk commit"
 ```
+<img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/4288bb32-0720-408d-b7ff-2bbb6ad8fd23" />
+
+<img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/4e6f9cad-def7-4ce4-ad7a-c49de5630a33" />
+
+<img width="764" height="474" alt="iş1" src="https://github.com/user-attachments/assets/18d77764-7df7-4e92-be08-63cdd91ece46" />
 
 ### Durum kontrolü
 
@@ -71,6 +84,8 @@ Projede yapılan değişiklikleri görmek için:
 ``` bash
 git status
 ```
+<img width="489" height="69" alt="gitstatus" src="https://github.com/user-attachments/assets/d7c74e6a-b425-497a-9529-669fc5c96a0e" />
+
 
 ### Değişiklikleri inceleme
 
@@ -85,10 +100,13 @@ Staging alanındaki farklılıkları görmek için:
 ``` bash
 git diff --staged
 ```
+<img width="654" height="520" alt="diff2" src="https://github.com/user-attachments/assets/bc3a3530-7337-43db-8f46-d72904e63ae3" />
+
+<img width="729" height="505" alt="diff1" src="https://github.com/user-attachments/assets/9147ee21-3074-4b93-a135-eca9fd0d4c69" />
 
 ------------------------------------------------------------------------
 
-## 4. Dosya Yönetimi
+## Dosya Yönetimi
 
 ### Dosya silme
 
@@ -110,7 +128,7 @@ git mv eski.txt yeni.txt
 
 ------------------------------------------------------------------------
 
-## 5. Geri Alma İşlemleri
+## Geri Alma İşlemleri
 
 ### Çalışma dizinindeki değişiklikleri geri almak
 
@@ -140,7 +158,7 @@ git log
 
 ------------------------------------------------------------------------
 
-## 6. Branch (Dal) Yönetimi
+## Branch (Dal) Yönetimi
 
 ### Mevcut dalları listeleme
 
