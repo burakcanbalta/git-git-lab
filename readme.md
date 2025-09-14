@@ -43,8 +43,6 @@ git init
 
 <img width="597" height="137" alt="email+check" src="https://github.com/user-attachments/assets/d435213c-8fe3-4bb8-8d31-900153d18ce1" />
 
-<img width="489" height="69" alt="gitstatus" src="https://github.com/user-attachments/assets/a879c147-cb98-4ac3-b51c-22be0e1d801d" />
-
 
 ## Dosya ve Commit İşlemleri
 
