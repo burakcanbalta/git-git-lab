@@ -66,8 +66,6 @@ Değişiklikleri kalıcı hale getirmek için commit mesajı eklenir:
 ``` bash
 git commit -m "İlk commit"
 ```
-<img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/4288bb32-0720-408d-b7ff-2bbb6ad8fd23" />
-
 <img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/4e6f9cad-def7-4ce4-ad7a-c49de5630a33" />
 
 <img width="764" height="474" alt="iş1" src="https://github.com/user-attachments/assets/18d77764-7df7-4e92-be08-63cdd91ece46" />
