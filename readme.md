@@ -64,7 +64,7 @@ git add .
 Değişiklikleri kalıcı hale getirmek için commit mesajı eklenir:
 
 ``` bash
-git commit -m "İlk commit"
+git commit -m "İlk dosya"
 ```
 <img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/4e6f9cad-def7-4ce4-ad7a-c49de5630a33" />
 
