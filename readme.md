@@ -1,14 +1,5 @@
-# Git Temel Kullanım Rehberi
-
-Bu doküman, yazılım geliştirme sürecinde **Git** versiyon kontrol
-sistemini kullanmaya yeni başlayanlar için hazırlanmıştır. Git sayesinde
-yapılan değişiklikleri takip edebilir, projeyi ekip arkadaşlarınızla
-birlikte yönetebilir ve gerektiğinde geçmiş versiyonlara geri
-dönebilirsiniz.
-
-------------------------------------------------------------------------
-
-## 1. Git Kurulumu ve İlk Ayarlar
+## Git Kurulumu ve İlk Ayarlar
+Ben git indirip bu işlemleri git bash üzerinden yapacağım.
 
 ### Versiyon kontrol
 
