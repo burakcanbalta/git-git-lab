@@ -16,12 +16,11 @@ için kullanıcı bilgilerinizi ayarlamanız gerekir:
 
 <img width="597" height="137" alt="email+check" src="https://github.com/user-attachments/assets/8505f2d0-fc52-44a9-9970-b8bb566240ca" />
 
+<img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/7d9dcc60-a171-466c-a8fc-69d5b6acc5ec" />
 
 ## Yeni Proje Oluşturma
 
 Öncelikle bir klasör oluşturun ve içerisine gidin:
-
-<img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/7d9dcc60-a171-466c-a8fc-69d5b6acc5ec" />
 
 ------------------------------------------------------------------------
 
