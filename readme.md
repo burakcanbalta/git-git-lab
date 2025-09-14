@@ -89,6 +89,8 @@ git diff --staged
 
 <img width="633" height="328" alt="commit+log" src="https://github.com/user-attachments/assets/a5c3e1c1-b6bb-4453-a10d-ac04c6d6be12" />
 
+<img width="733" height="793" alt="status" src="https://github.com/user-attachments/assets/e064681b-79d6-41d5-9e16-2c5726011721" />
+
 <img width="764" height="474" alt="iş1" src="https://github.com/user-attachments/assets/fd3267dd-f26e-4f98-bf79-acfa4d8df8a6" />
 
 <img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/63ceeacb-1630-443a-becf-b281376e2e4c" />
