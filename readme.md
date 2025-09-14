@@ -1,4 +1,4 @@
- ## Git Kurulumu ve İlk Ayarlar
+ ## Git
 Ben git indirip bu işlemleri git bash üzerinden yapacağım.
 
 ### Versiyon kontrol
