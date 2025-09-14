@@ -168,7 +168,7 @@ git log
 
 ------------------------------------------------------------------------
 
-## Branch (Dal) Yönetimi
+## Branch
 Git projenizin bir kopyasıdır. Git ile varsayılan olarak gelen ana dal genellikle `master` veya `main` olarak adlandırılır.  
 
 Master dalından bir kopya aldığınızda, aslında yeni bir branch oluşturmuş olursunuz.Özellikle birden fazla kişiyle çalışılan projelerde işleri düzenli hale getirmektir. Her görev veya özellik için ayrı bir dal açılır.  
