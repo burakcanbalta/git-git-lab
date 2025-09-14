@@ -5,6 +5,10 @@ Ben git indirip bu işlemleri git bash üzerinden yapacağım.
 
 Git'in yüklü olup olmadığını kontrol etmek için:
 
+``` bash
+git --version
+```
+
 <img width="469" height="54" alt="version" src="https://github.com/user-attachments/assets/baebf250-9cb4-46be-aec5-a89695b545f4" />
 
 ### Kullanıcı adı ve e-posta tanımlama
@@ -12,17 +16,34 @@ Git'in yüklü olup olmadığını kontrol etmek için:
 Git üzerinde yapacağınız tüm commit'lerin kime ait olduğunu belirlemek
 için kullanıcı bilgilerinizi ayarlamanız gerekir:
 
+``` bash
+git config --global user.name "Adınız Soyadınız"
+git config --global user.email "mail@adresiniz.com"
+``` 
+Tanımlamaları kontrol etmek için:
+
+``` bash
+git config --global user.name
+git config --global user.email
+```
+Öncelikle bir klasör oluşturun ve içerisine gidin:
+
+``` bash
+mkdir proje-adi
+cd proje-adi
+```
+
+Bu klasörü Git projesi haline getirmek için:
+
+``` bash
+git init
+```
+
 <img width="640" height="180" alt="user+check" src="https://github.com/user-attachments/assets/a9bfef45-412a-4cab-af14-89b42dc06629" />
 
 <img width="597" height="137" alt="email+check" src="https://github.com/user-attachments/assets/8505f2d0-fc52-44a9-9970-b8bb566240ca" />
 
 <img width="599" height="197" alt="mkdirproje+gitinit" src="https://github.com/user-attachments/assets/7d9dcc60-a171-466c-a8fc-69d5b6acc5ec" />
-
-## Yeni Proje Oluşturma
-
-Öncelikle bir klasör oluşturun ve içerisine gidin:
-
-------------------------------------------------------------------------
 
 ## Dosya ve Commit İşlemleri
 
