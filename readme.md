@@ -1,4 +1,4 @@
-## Git Kurulumu ve İlk Ayarlar
+ ## Git Kurulumu ve İlk Ayarlar
 Ben git indirip bu işlemleri git bash üzerinden yapacağım.
 
 ### Versiyon kontrol
@@ -65,9 +65,6 @@ Değişiklikleri kalıcı hale getirmek için commit mesajı eklenir:
 ``` bash
 git commit -m "İlk dosya"
 ```
-<img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/4e6f9cad-def7-4ce4-ad7a-c49de5630a33" />
-
-<img width="764" height="474" alt="iş1" src="https://github.com/user-attachments/assets/18d77764-7df7-4e92-be08-63cdd91ece46" />
 
 ### Durum kontrolü
 
@@ -76,9 +73,6 @@ Projede yapılan değişiklikleri görmek için:
 ``` bash
 git status
 ```
-<img width="489" height="69" alt="gitstatus" src="https://github.com/user-attachments/assets/d7c74e6a-b425-497a-9529-669fc5c96a0e" />
-
-
 ### Değişiklikleri inceleme
 
 Dosya bazlı değişiklikleri görmek için:
@@ -92,6 +86,13 @@ Staging alanındaki farklılıkları görmek için:
 ``` bash
 git diff --staged
 ```
+
+<img width="633" height="328" alt="commit+log" src="https://github.com/user-attachments/assets/a5c3e1c1-b6bb-4453-a10d-ac04c6d6be12" />
+
+<img width="764" height="474" alt="iş1" src="https://github.com/user-attachments/assets/fd3267dd-f26e-4f98-bf79-acfa4d8df8a6" />
+
+<img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/63ceeacb-1630-443a-becf-b281376e2e4c" />
+
 <img width="654" height="520" alt="diff2" src="https://github.com/user-attachments/assets/bc3a3530-7337-43db-8f46-d72904e63ae3" />
 
 <img width="729" height="505" alt="diff1" src="https://github.com/user-attachments/assets/9147ee21-3074-4b93-a135-eca9fd0d4c69" />
