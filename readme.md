@@ -38,7 +38,12 @@ Bu klasörü Git projesi haline getirmek için:
 ``` bash
 git init
 ```
-<img width="733" height="793" alt="status" src="https://github.com/user-attachments/assets/87a9ba0d-8fcc-456a-b174-191073747450" />
+
+<img width="640" height="180" alt="user+check" src="https://github.com/user-attachments/assets/2f780bc3-9a94-434a-a940-7237bc2af2cc" />
+
+<img width="597" height="137" alt="email+check" src="https://github.com/user-attachments/assets/d435213c-8fe3-4bb8-8d31-900153d18ce1" />
+
+<img width="489" height="69" alt="gitstatus" src="https://github.com/user-attachments/assets/a879c147-cb98-4ac3-b51c-22be0e1d801d" />
 
 
 ## Dosya ve Commit İşlemleri
