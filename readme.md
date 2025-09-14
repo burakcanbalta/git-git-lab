@@ -93,9 +93,9 @@ git diff --staged
 
 <img width="718" height="508" alt="iş2" src="https://github.com/user-attachments/assets/63ceeacb-1630-443a-becf-b281376e2e4c" />
 
-<img width="654" height="520" alt="diff2" src="https://github.com/user-attachments/assets/bc3a3530-7337-43db-8f46-d72904e63ae3" />
-
 <img width="729" height="505" alt="diff1" src="https://github.com/user-attachments/assets/9147ee21-3074-4b93-a135-eca9fd0d4c69" />
+
+<img width="654" height="520" alt="diff2" src="https://github.com/user-attachments/assets/bc3a3530-7337-43db-8f46-d72904e63ae3" />
 
 ------------------------------------------------------------------------
 
