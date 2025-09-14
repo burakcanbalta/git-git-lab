@@ -114,12 +114,14 @@ Klasör silmek için:
 ``` bash
 git rm -r klasor/
 ```
+<img width="509" height="250" alt="delete" src="https://github.com/user-attachments/assets/0f9f8fda-75b7-46ad-9d2a-90e12913d997" />
 
 ### Dosya taşıma veya ad değiştirme
 
 ``` bash
 git mv eski.txt yeni.txt
 ```
+<img width="521" height="619" alt="mv" src="https://github.com/user-attachments/assets/9f072227-284a-42fe-bfbc-97e5e4e3acae" />
 
 ------------------------------------------------------------------------
 
