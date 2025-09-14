@@ -219,9 +219,9 @@ git pull
 
 ------------------------------------------------------------------------
 
-## 8. GitHub Üzerinde İş Birliği
+## 8. Gitlab Üzerinde İş Birliği
 
-GitHub üzerinden ekip çalışması için **Issues** bölümünü
+Gitlab üzerinden ekip çalışması için **Issues** bölümünü
 kullanabilirsiniz.\
 Bir sorun ya da geliştirme talebi oluşturmak için:
 
@@ -232,7 +232,7 @@ Bir sorun ya da geliştirme talebi oluşturmak için:
 
 ## 9. SSH Anahtar Oluşturma
 
-GitHub ile daha güvenli bağlantı kurmak için SSH anahtarı
+Gitlab ile daha güvenli bağlantı kurmak için SSH anahtarı
 oluşturabilirsiniz:
 
 ``` bash
@@ -240,17 +240,4 @@ ssh-keygen
 ```
 
 Oluşturulan anahtar, `~/.ssh/id_rsa.pub` dosyasında bulunur. İçeriğini
-GitHub hesabınıza ekleyerek SSH üzerinden bağlantı kurabilirsiniz.
-
-------------------------------------------------------------------------
-
-## Özet
-
-Bu doküman ile:\
-- Git kurulumu ve kullanıcı tanımlaması\
-- Proje oluşturma\
-- Dosya ekleme, commit, log ve diff işlemleri\
-- Branch ve merge işlemleri\
-- Uzak repo yönetimi\
-- GitHub üzerinde Issues ile iş birliği\
-temel seviyede öğrenilmiş olur.
+Gitlab hesabınıza ekleyerek SSH üzerinden bağlantı kurabilirsiniz.
