@@ -138,6 +138,19 @@ git checkout -- dosya.txt
 ``` bash
 git reset HEAD dosya.txt
 ```
+## Restore İşlemleri
+
+`git restore` komutu, çalışma dizinindeki veya staging alanındaki değişiklikleri geri almak için kullanılır. Git’in yeni sürümlerinde `checkout` ve `reset` yerine önerilen yöntemdir.
+
+### Çalışma dizinindeki değişiklikleri geri almak
+Bir dosyada yaptığınız değişiklikleri iptal edip en son commit haline döndürmek için:
+
+```bash
+git restore dosya.txt
+```
+<img width="516" height="159" alt="2" src="https://github.com/user-attachments/assets/1791c510-10ca-4959-b0cc-019e730a6129" />
+
+<img width="546" height="233" alt="1" src="https://github.com/user-attachments/assets/b6e01947-e8f2-46de-8403-b11c66529b50" />
 
 ### Versiyon değiştirme
 
